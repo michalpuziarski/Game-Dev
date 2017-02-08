@@ -1,2 +1,2 @@
 # Game-Dev
-Game
+Game ideas, code and art assets 
